@@ -1,0 +1,94 @@
+.colornav{
+  color:#3c6ad1;
+  opacity: 0.8;
+ 
+}
+.nav-pills {
+  font-size: 3.0em;
+  background-color: transparent;
+  margin-right: 1px;
+}
+
+body {
+  background-color: black;
+  font-family: Lobster;
+  color: black;
+}
+#fbicon {
+  color:rgb(59,89,163);
+}
+#ghicon{
+ color:rgb(102,43,129);  
+}
+#fccicon{
+  color:rgb(6,48,10);
+}
+#liicon{
+  color:rgb(0,127,178);  
+}
+h1 {
+  padding: 0px;
+  opacity:0.8;
+  font-size: 6em;
+  color: #3c6ad1;
+}
+h2 {
+  color: black;
+  font-size: 3em;
+  padding: 10px;
+}
+.pageOne {
+  background: url("http://images.unsplash.com/photo-1485897790417-5bbfe0e37428?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=5c3d7a695bc4f2ff653dacaf7f90fb7d");
+  background-size: cover;
+  height: 700px;
+}
+.btn-default {
+  font-size: 2em;
+  color: #3c6ad1;
+  opacity: 0.8;
+  border-radius: 15%;
+}
+.block {
+  background-color:#adbcd3;
+  opacity: 0.5;
+  margin-top: 15%;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 1%;
+}
+.pageTwo {
+  background: url("http://images.unsplash.com/photo-1496865534669-25ec2a3a0fd3?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=74bccd8c2b61311fd60d8e6b5a7c2f90");
+  background-size: cover;
+  height: 700px;
+}
+p {
+  margin-top:100px;
+  font-size: 2em;
+  color: #09093a;
+  margin-left:10px;
+  text-align:center;
+}
+.my-image {
+  max-width:400px;
+  max-height:500px;
+  margin-top:150px; 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20%;
+}
+.pageThree {
+  background: url("http://images.unsplash.com/photo-1485199926533-8c38475abf2d?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=b22c9f67eac473b4a4aae27c446feb17");
+  background-size: cover;
+  height: 700px;
+}
+paddingtop{
+  padding-top:4%;
+  padding-bottom:2%;
+}
+.pageFour {
+  background: url("https://images.unsplash.com/photo-1474929743204-8f756140cb14?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=214de42bc464b242eb8b01f513eff17d");
+  background-size: cover;
+  height: 700px;
+}
+
